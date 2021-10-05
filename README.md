@@ -12,6 +12,6 @@ OCR is the proceess of transforming a text image into the text itself - in other
 - Detection of lines, words, characters
 - Produces a list of characters based on trained data (traineddata; edDataPath() is used to set the path)
 - PostProcessing recognizes the characters and then chooses the best ones after the previous step and linguistic data (dictionaries, grammar rules, etc)
-(/image/OCRworks.jpg)
+![](/image/OCRworks.jpg)
 ## Result
 So, for the picture (/image/poza1.png) I had the result (/image/poza2.png)
