@@ -14,4 +14,4 @@ OCR is the proceess of transforming a text image into the text itself - in other
 - PostProcessing recognizes the characters and then chooses the best ones after the previous step and linguistic data (dictionaries, grammar rules, etc)
 ![](/image/OCRworks.jpg)
 ## Result
-So, for the picture (/image/poza1.png) I had the result (/image/poza2.png)
+So, for the picture ![](/image/poza1.jpg) I had the result ![](/image/poza2.jpg)
